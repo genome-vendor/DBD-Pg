@@ -1,0 +1,17 @@
+Source: libdbd-pg-perl
+Section: perl
+Priority: optional
+Build-Depends: debhelper (>= 7), perl (>= 5.9.0), libdbi-perl (>= 1.52)
+Maintainer: Ben Oberkfell <boberkfe@genome.wustl.edu>
+Standards-Version: 3.8.3
+Homepage: http://search.cpan.org/dist/DBD-Pg/
+
+Package: libdbd-pg-perl
+Architecture: any
+Depends: ${perl:Depends}, ${shlibs:Depends}, ${misc:Depends},
+  perl (>= 5.9.0), libdbi-perl (>= 1.52)
+Description: DBI PostgreSQL interface
+ DBD::Pg is a Perl module that works with the DBI module to provide access to
+ PostgreSQL databases.
+ .
+ This description was automagically extracted from the module by dh-make-perl.

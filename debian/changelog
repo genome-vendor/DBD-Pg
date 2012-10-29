@@ -1,0 +1,12 @@
+libdbd-pg-perl (2.19.3-2) unstable; urgency=low
+
+  * Fix perl dependency
+
+ -- Ben Oberkfell <boberkfe@>  Fri, 26 Oct 2012 13:50:07 -0500
+
+
+libdbd-pg-perl (2.19.3-1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Ben Oberkfell <boberkfe@>  Fri, 26 Oct 2012 13:26:07 -0500

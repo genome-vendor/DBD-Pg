@@ -1,0 +1,14 @@
+efaecd8054b4294648c886727dd52d30  usr/lib/perl5/Bundle/DBD/Pg.pm
+8e2c099706e62d2afaaf3142dc96277c  usr/lib/perl5/DBD/testme.tmp.pl
+b66782ff7ee8e3158aa0d800f0325481  usr/lib/perl5/DBD/Pg.pm
+b8f9f4971ee6fd231472a00a1cab73ac  usr/lib/perl5/auto/DBD/Pg/Pg.so
+d41d8cd98f00b204e9800998ecf8427e  usr/lib/perl5/auto/DBD/Pg/Pg.bs
+365e6bbae8bca0cb80178b71dc5f631c  usr/share/man/man3/DBD::Pg.3pm.gz
+0e636378c994dba4a023fc98d37437d9  usr/share/man/man3/Bundle::DBD::Pg.3pm.gz
+e69e9b7b689e79caacbc18448da94205  usr/share/doc/libdbd-pg-perl/README.dev.gz
+71c2d04481a479034092e8b8185aeb77  usr/share/doc/libdbd-pg-perl/TODO
+753ca090aa81ddd98b98962e77c542b4  usr/share/doc/libdbd-pg-perl/changelog.gz
+49f8d55199b72bea1716c4320baf3717  usr/share/doc/libdbd-pg-perl/README.win32
+ee27a84fdf01b046a95f931c7d4bf593  usr/share/doc/libdbd-pg-perl/copyright
+de347e07788b941e70018957608b2e86  usr/share/doc/libdbd-pg-perl/README.gz
+210db2275c53238515f2a3d9045b4307  usr/share/doc/libdbd-pg-perl/changelog.Debian.gz
